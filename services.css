@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+.navbar {
+    font-family: 'Kaushan Script',cursive, sans-serif;
+  }
+
+  .seccion-services h2{
+    font-family: 'Kaushan Script', sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #a13961;
+  }
+  
+  .seccion-services p{
+    font-size: 20px;
+    text-align:center;
+    margin-bottom: 20px;
+    color:#000;
+    font-weight: 500;
+    margin-right: 30px;
+    margin-left: 30px;
+  }
+  
+ .seccion-services ul li{
+   font-size: 20px;
+   text-align:justify;
+   margin-bottom: 20px;
+   margin-left: 30px;
+   margin-right: 30px;
+   color:#000;
+   font-weight: 300;
+  }
+
+  .info{
+    padding: 30px 0px;
+    display: flex;
+    align-items: center;
+}
+
+.info-img{
+    width: 50%;
+}
+
+.info-img img{
+    width: 490px;
+    height: 250px;
+}
+
+.info-txt{
+    width: 50%;
+}
+
+.info-txt h2{
+    color: #a13961;
+    font-size: 65px;
+    text-transform: uppercase;
+    font-weight: 800;
+    margin-bottom: 25px;
+    font-family: 'Kaushan Script',cursive, sans-serif;
+}
+
+.info-txt p{
+    color: #000000;
+    font-size: 18px;
+    margin-bottom: 50px;
+}
+
+.btn-1{
+    display: inline-block;
+    padding: 15px 35px;
+    background-color:#79334e;
+    color: #fff;
+    font-weight: 800;
+    text-transform: uppercase;
+    border-radius: 50px;
+}
+
+.btn-1:hover{
+    background-color: #8d2f2a;
+}   
+ 
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }

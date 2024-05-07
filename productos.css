@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+.navbar {
+    font-family: 'Kaushan Script',cursive, sans-serif;
+  }
+  
+.product h2{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 50px;
+  font-weight: 500;
+  margin-bottom: 25px;
+  text-transform: uppercase;
+  color: #c45858;
+  text-align: center;
+  margin-top: 25px;
+}
+  
+  /* Products */
+  .card {
+    transition: all 0.3s;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
